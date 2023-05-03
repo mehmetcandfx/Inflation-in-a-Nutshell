@@ -53,9 +53,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Contriuters
+## Contributors
 
-<b>Contributers:</b><br>
+<b>Contributors:</b><br>
 `Mehmetcan Caniklioglu `<br>
 `Matija Kasunić`<br>
 `Pedro Maroto de la Cruz`<br>
@@ -63,14 +63,3 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Data Resources
-<b>Data from Eurostat</b><br>
-
-- [ ] Wages
-    - [ ] Mean hourly earnings by sex, age, occupation for 2002-06-10-14-18
-    - [ ] Mean hourly earnings by sex, economic activity and occupation 2006-10-14-18
-    - [ ] Mean hourly earnings by economic activity, sex, educational attainment level 2002-06-10-14-18
-- [ ] Employment
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
