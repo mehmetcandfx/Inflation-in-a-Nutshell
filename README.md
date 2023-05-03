@@ -37,8 +37,8 @@
 <h3 align="center">Inflation in a Nutshell</h3>
 
   <p align="center">
-    <br />
     <a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/blob/main/Inflation%20in%20a%20Nutshell.pdf"  target="_blank"><strong>Explore the Report! »</strong></a>
+    <br />
     <br />
     <i>Universiteit van Amsterdam, MSc Economics<i>
     <br />
@@ -53,13 +53,20 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Contributors
+## Contributors:
 
 <b>Contributors:</b><br>
 `Mehmetcan Caniklioglu `<br>
 `Matija Kasunić`<br>
 `Pedro Maroto de la Cruz`<br>
 `Oleksii Toporkov`<br>
+
+## Further Materials:
+<a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/blob/main/Assignment2_6414M0161Y_2022.pdf"  target="_blank"><strong>Assignmet File</strong></a>
+<br />
+<a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/tree/main/Some%20Analysis"  target="_blank"><strong>Some Codes and an excell for Plots</strong></a>
+<br />
+<a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/tree/main/Raw%20Data"  target="_blank"><strong>Raw Data</strong></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
