@@ -34,16 +34,17 @@
     <img src="Images/Uva_logo.svg.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Skills, Tasks and Occupations</h3>
+<h3 align="center">Inflation in a Nutshell</h3>
 
   <p align="center">
-    A Cross-Country Analysis of Technology and Trade’s Impact on Occupational Employment and Inequality
     <br />
-    <a href="https://github.com/mehmetcandfx/Technology_Trade_Employment/tree/main/Documents"  target="_blank"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/blob/main/Inflation%20in%20a%20Nutshell.pdf"  target="_blank"><strong>Explore the Report! »</strong></a>
     <br />
-    <i> MSc Economics Thesis, 2023<i>
+    <i>Universiteit van Amsterdam, MSc Economics<i>
     <br />
-    <i>Supervisor: Dr. K. Mavromatis<i>  
+    <i>Macroeconomics(6414M0161Y) Assignment2 2023<i>
+    <br />
+    <i>Lecturers: Dr. W.E. Romp, Dr. M. Pedroni, <i>  
     <br />
     <br />
   </p>
@@ -51,34 +52,14 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-        <li>
-      <a href="#Data Resources">Data Resources</a>
-    </li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
-<b>The research question to answer is:</b><br>
-How did the recent developments in technology and offshoring activity in European Union affected demand for different skills and earnings of different occupations in late 20th and 21st Century?
+## Contriuters
 
-<b>Tasks to Do:</b><br>
-`Data Discovery`<br>
-`Data Preperation`<br>
-`Data Analysis-Visualization`<br>
-`Theory-Offshoring Modelling`<br>
-`Empiric Tests`<br>
-`Further Discussion`<br>
-`Conclusion ` 
+<b>Contributers:</b><br>
+`Mehmetcan Caniklioglu `<br>
+`Matija Kasunić`<br>
+`Pedro Maroto de la Cruz`<br>
+`Oleksii Toporkov`<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
