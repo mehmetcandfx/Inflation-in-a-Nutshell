@@ -62,11 +62,13 @@
 `Oleksii Toporkov`<br>
 
 ## Further Materials:
+ <p align="left">
 <a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/blob/main/Assignment2_6414M0161Y_2022.pdf"  target="_blank"><strong>Assignmet File</strong></a>
 <br />
 <a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/tree/main/Some%20Analysis"  target="_blank"><strong>Some Codes and an excell for Plots</strong></a>
 <br />
 <a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/tree/main/Raw%20Data"  target="_blank"><strong>Raw Data</strong></a>
+ </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
