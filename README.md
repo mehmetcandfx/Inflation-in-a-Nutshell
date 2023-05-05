@@ -70,5 +70,5 @@
 <a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/tree/main/Raw%20Data"  target="_blank"><strong>Raw Data</strong></a>
  </p>
 
-<p align="right">(<a href="#readme-top">back to topal</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
