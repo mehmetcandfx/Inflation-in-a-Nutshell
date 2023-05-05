@@ -42,7 +42,7 @@
     <br />
     <i>Universiteit van Amsterdam, MSc Economics<i>
     <br />
-    <i>Macroeconomics(6414M0161Y) Assignment2 2023 zzz<i>
+    <i>Macroeconomics(6414M0161Y) Assignment2 2023<i>
     <br />
     <i>Lecturers: Dr. W.E. Romp, Dr. M. Pedroni, <i>  
     <br />
