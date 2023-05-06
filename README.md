@@ -37,14 +37,14 @@
 <h3 align="center">Inflation in a Nutshell</h3>
 
   <p align="center">
-    <a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/blob/main/Inflation%20in%20a%20Nutshell.pdf"  target="_blank"><strong>Explore the Report! »</strong></a>
+    <a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/blob/main/Documents/Inflation%20in%20a%20Nutshell.pdf"  target="_blank"><strong>Explore the Report! »</strong></a>
     <br />
     <br />
     <i>Universiteit van Amsterdam, MSc Economics<i>
     <br />
-    <i>Macroeconomics(6414M0161Y) Assignment2 2023<i>
+    <i>Macroeconomics(6414M0161Y) Assignment2, 2023<i>
     <br />
-    <i>Lecturers: Dr. W.E. Romp, Dr. M. Pedroni, <i>  
+    <i>Lecturers: Dr. W.E. Romp, Dr. M. Pedroni <i>  
     <br />
     <br />
   </p>
@@ -63,11 +63,11 @@
 
 ## Further Materials:
  <p align="left">
-<a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/blob/main/Assignment2_6414M0161Y_2022.pdf"  target="_blank"><strong>Assignmet File</strong></a>
+<a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/blob/main/Documents/Assignment.pdf"  target="_blank"><strong>Assignmet File</strong></a>
 <br />
 <a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/tree/main/Some%20Analysis"  target="_blank"><strong>Some Codes and an excell for Plots</strong></a>
 <br />
-<a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/tree/main/Raw%20Data"  target="_blank"><strong>Raw Data</strong></a>
+<a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/tree/main/Raw%20Data"  target="_blank"><strong>Some Raw Data</strong></a>
  </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
