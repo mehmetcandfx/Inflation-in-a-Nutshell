@@ -67,7 +67,7 @@
 <br />
 <a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/tree/main/Some%20Analysis"  target="_blank"><strong>Some Codes and an excell for Plots</strong></a>
 <br />
-<a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/tree/main/Raw%20Data"  target="_blank"><strong>Some Raw Data</strong></a>
+<a href="https://github.com/mehmetcandfx/Inflation-in-a-Nutshell/tree/main/Some%20Raw%20Data"  target="_blank"><strong>Some Raw Data</strong></a>
  </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
