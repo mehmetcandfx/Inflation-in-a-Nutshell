@@ -44,7 +44,7 @@
     <br />
     <i>Macroeconomics(6414M0161Y) Assignment2, 2023<i>
     <br />
-    <i>Lecturers: Dr. W.E. Romp, Dr. M. Pedroni <i>  
+    <i>Lecturers: Dr. W.E. Romp, Dr. M. Pedroni ddddd<i>  
     <br />
     <br />
   </p>
